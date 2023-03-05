@@ -3,7 +3,7 @@ import os
 import time
 
 # Set your OpenAI API key as an environment variable
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'REDACTED'
 
 # Initialize the openai.api object with your API key
 openai.api_key = os.environ['OPENAI_API_KEY']
